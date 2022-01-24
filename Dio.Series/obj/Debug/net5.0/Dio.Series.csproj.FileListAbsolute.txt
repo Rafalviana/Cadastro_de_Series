@@ -1,0 +1,15 @@
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\Familia\Documents\RAFAEL\WORKSPACE\Cadastro_de_S-ries\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
